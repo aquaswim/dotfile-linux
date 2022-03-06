@@ -14,3 +14,6 @@ My Linux dot files
 
 ## Scripts
 1. `refresh.sh`: backup all config
+
+## Acknowledgement
+1. Wallpaper: idk who made that, please file new issue if you know ;-)
