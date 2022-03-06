@@ -20,5 +20,8 @@
     "clock": {
 	"rotate": 90,
 	"format": "{: %e %b %Y %H:%M }"
+    },
+    "sway/mode": {
+	"rotate": 90
     }
 }
