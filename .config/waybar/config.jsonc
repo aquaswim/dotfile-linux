@@ -2,5 +2,23 @@
     "include": [
         "/usr/share/sway/templates/waybar/config.jsonc"
     ],
-    "modules-center": ["custom/wf-recorder", "sway/mode"]
+    "modules-center": ["custom/wf-recorder", "sway/mode"],
+    "modules-right":[
+	"cpu", "memory", "temperature",
+
+	"network", "bluetooth",
+
+	"custom/playerctl","idle_inhibitor","pulseaudio",
+
+	"custom/sunset", "custom/pacman",
+
+	"tray",
+
+	"clock"
+    ],
+    "position": "left",
+    "clock": {
+	"rotate": 90,
+	"format": "{: %e %b %Y %H:%M }"
+    }
 }
