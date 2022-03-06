@@ -12,6 +12,7 @@ bkpConfig()
 # this script is to copy all .dotfile to this repo
 bkpConfig sway
 bkpConfig waybar
+bkpConfig foot
 $CP ~/.zshrc .
 $CP ~/.profile .
 $CP ~/.ideavimrc .
