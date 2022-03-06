@@ -14,3 +14,4 @@ bkpConfig sway
 bkpConfig waybar
 $CP ~/.zshrc .
 $CP ~/.profile .
+$CP ~/.ideavimrc .
