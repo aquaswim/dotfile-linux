@@ -13,6 +13,7 @@ bkpConfig()
 bkpConfig sway
 bkpConfig waybar
 bkpConfig foot
+bkpConfig zsh
 $CP ~/.zshrc .
 $CP ~/.profile .
 $CP ~/.ideavimrc .
