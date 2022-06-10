@@ -107,9 +107,6 @@ source $ZSH/oh-my-zsh.sh
 # tmux stuff
 ZSH_TMUX_AUTOSTART="true"
 # reff: https://wiki.archlinux.org/title/Tmux#Start_tmux_on_every_shell_login
-if [ -x "$(command -v tmux)" ] && [ -n "${DISPLAY}" ]; then
-  [ -z "${TMUX}" ] && { tmux attach || tmux; } >/dev/null 2>&1
-fi
 
 # add rubygem
 export GEM_HOME="$(ruby -e 'puts Gem.user_dir')"
