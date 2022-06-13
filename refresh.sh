@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-CP="rsync -vrp"
+CP="rsync -vrp --delete"
 
 bkpConfig()
 {
