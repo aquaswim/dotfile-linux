@@ -14,6 +14,7 @@ bkpConfig sway
 bkpConfig waybar
 bkpConfig foot
 bkpConfig zsh
+bkpConfig nwg-wrapper
 $CP ~/.zshrc .
 $CP ~/.profile .
 $CP ~/.ideavimrc .
