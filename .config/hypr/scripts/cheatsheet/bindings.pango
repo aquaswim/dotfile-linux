@@ -1,0 +1,33 @@
+<span face="JetBrainsMono Nerd Font">
+<span size="xx-large" foreground="#6699cc" weight="bold">󱜸 Cheat sheet</span>
+<span foreground="#eeeeee">
+Terminal emulator	<span foreground="#6699cc" weight="bold">Mod+Enter</span>
+Web browser		<span foreground="#6699cc" weight="bold">Mod+B</span>
+Launcher		<span foreground="#6699cc" weight="bold">Mod+D</span>
+File manager		<span foreground="#6699cc" weight="bold">Mod+E</span>
+
+Kill task		<span foreground="#6699cc" weight="bold">MOD+Q</span>
+Kill Hyprland	        <span foreground="#6699cc" weight="bold">Mod+SHIFT+Q</span>
+
+Switch workspace	<span foreground="#6699cc" weight="bold">Mod+number</span>
+Move to workspace	<span foreground="#6699cc" weight="bold">Mod+Shift+number</span>
+
+Toggle floating		<span foreground="#6699cc" weight="bold">Mod+T</span>
+Toggle Fullscreen	<span foreground="#6699cc" weight="bold">Mod+F</span>
+
+Screen Shoot	        <span foreground="#6699cc" weight="bold">Mod+Shift+S, PrtSc</span>
+Show Record		<span foreground="#6699cc" weight="bold">Mod+Shift+R</span>
+
+Toggle this cheatsheet	<span foreground="#6699cc" weight="bold">Mod+Shift+?</span>
+</span>
+<span size="xx-large" foreground="#6699cc" weight="bold">󱜸 Note</span>
+<span foreground="#eeeeee">
+The screenshoot save is not working;
+
+To run gui app that need root access, 
+need to set the xhost first;
+
+you can edit this text via 
+~/.config/hypr/scripts/cheatsheet/bindings.pango;
+</span>
+</span>

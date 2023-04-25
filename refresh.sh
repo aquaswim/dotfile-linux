@@ -10,11 +10,13 @@ bkpConfig()
 
 
 # this script is to copy all .dotfile to this repo
-bkpConfig sway
+bkpConfig cava
+bkpConfig dunst
+bkpConfig hypr
+bkpConfig kitty
+bkpConfig rofi
 bkpConfig waybar
-bkpConfig foot
-bkpConfig zsh
-bkpConfig nwg-wrapper
+bkpConfig swaylock
 $CP ~/.zshrc .
 $CP ~/.profile .
 $CP ~/.ideavimrc .

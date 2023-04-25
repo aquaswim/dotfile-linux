@@ -1,0 +1,3 @@
+#!/bin/sh
+
+nwg-wrapper -t ~/.config/hypr/scripts/cheatsheet/bindings.pango -c ~/.config/hypr/scripts/cheatsheet/bindings.css -p left -a start -mt 100 -ml 100 -r 5000

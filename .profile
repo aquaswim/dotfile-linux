@@ -1,6 +1,8 @@
 #!/bin/sh
-# make default editor Neovim
 export EDITOR=nvim
+
+# Added by Toolbox App
+export PATH="$PATH:/home/aquaswim/.local/share/JetBrains/Toolbox/scripts"
 
 # Most pure GTK3 apps use wayland by default, but some,
 # like Firefox, need the backend to be explicitely selected.
@@ -15,19 +17,3 @@ export QT_WAYLAND_DISABLE_WINDOWDECORATION="1"
 
 #Java XWayland blank screens fix
 export _JAVA_AWT_WM_NONREPARENTING=1
-
-# set default shell and terminal
-export SHELL=/usr/bin/zsh
-export TERMINAL_COMMAND=/usr/share/sway/scripts/foot.sh
-
-# add default location for zeit.db
-export ZEIT_DB=~/.config/zeit.db
-
-# add nvm to here
-export NVM_DIR="$HOME/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
-. "$HOME/.cargo/env"
-
-# add rustup
-source $HOME/.cargo/env

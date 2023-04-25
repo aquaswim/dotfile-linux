@@ -31,8 +31,8 @@ map Q gq
 set ic
 
 " Relative Line number
-set relativenumber
-set number
+" set relativenumber
+" set number
 
 " Plugins
 Plug 'tpope/vim-surround'
@@ -49,4 +49,3 @@ map \x <Action>(CloseAllUnpinnedEditors)
 map \j <Action>(EditorCloneCaretBelow)
 map \k <Action>(EditorCloneCaretAbove)
 map \sn <Action>(SelectNextOccurrence)
-
