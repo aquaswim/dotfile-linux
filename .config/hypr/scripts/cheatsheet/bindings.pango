@@ -3,7 +3,7 @@
 <span foreground="#eeeeee">
 Terminal emulator	<span foreground="#6699cc" weight="bold">Mod+Enter</span>
 Web browser		<span foreground="#6699cc" weight="bold">Mod+B</span>
-Launcher		<span foreground="#6699cc" weight="bold">Mod+D</span>
+Launcher		<span foreground="#6699cc" weight="bold">Mod+D / MOD+Space</span>
 File manager		<span foreground="#6699cc" weight="bold">Mod+E</span>
 
 Kill task		<span foreground="#6699cc" weight="bold">MOD+Q</span>
@@ -22,8 +22,6 @@ Toggle this cheatsheet	<span foreground="#6699cc" weight="bold">Mod+Shift+?</spa
 </span>
 <span size="xx-large" foreground="#6699cc" weight="bold">󱜸 Note</span>
 <span foreground="#eeeeee">
-The screenshoot save is not working;
-
 To run gui app that need root access, 
 need to set the xhost first;
 

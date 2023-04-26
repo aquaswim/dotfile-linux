@@ -17,6 +17,7 @@ bkpConfig kitty
 bkpConfig rofi
 bkpConfig waybar
 bkpConfig swaylock
+bkpConfig swappy
 $CP ~/.zshrc .
 $CP ~/.profile .
 $CP ~/.ideavimrc .
