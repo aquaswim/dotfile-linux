@@ -1,5 +1,5 @@
 #!/bin/sh
-nwg-wrapper -si -i -t ~/.config/hypr/scripts/cheatsheet/bindings.pango -c ~/.config/hypr/scripts/cheatsheet/bindings.css -p left -a start -mt 100 -ml 100 -r 5000
-
 # show help text
-notify-send -e "Need small help?" "Press Mod+Shift+? to show cheat sheat \n(mod is windows keys)"
+notify-send -e "Need small help?" "Press Mod+Shift+? to show the cheatsheat \n(mod is win keys)"
+
+nwg-wrapper -si -i -t ~/.config/hypr/scripts/cheatsheet/bindings.pango -c ~/.config/hypr/scripts/cheatsheet/bindings.css -p left -a start -mt 100 -ml 100 -r 5000
