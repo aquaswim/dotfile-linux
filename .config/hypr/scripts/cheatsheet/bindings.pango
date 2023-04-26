@@ -26,6 +26,6 @@ To run gui app that need root access,
 need to set the xhost first;
 
 you can edit this text via 
-~/.config/hypr/scripts/cheatsheet/bindings.pango;
+<i>~/.config/hypr/scripts/cheatsheet/bindings.pango;</i>
 </span>
 </span>
