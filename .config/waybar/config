@@ -107,7 +107,7 @@
     },
     "custom/power-menu": {
         "format": " ⏻ ",
-        "on-click": "bash ~/.config/waybar/scripts/power-menu/powermenu.sh &",
+        "on-click": "wlogout",
     }, 
     "custom/launcher": {
         "format": "",
