@@ -10,7 +10,9 @@ My Linux dot files
     zsh
     noto-fonts-cjk
     ttf-jetbrains-mono-nerd
+    catppuccin-gtk-theme-mocha
     ```
+    * = aur
 3. install this by following the official doc
     1. [Oh My ZSH](https://ohmyz.sh/#install)
     2. [Zsh auto suggest](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
@@ -21,6 +23,7 @@ My Linux dot files
 
 ## Manual configuration
 1. set keyboard shortcut `SUPER+Return` to open kitty
+1. Set shell theme to catpuucin mocha in gnome tweak
 
 ## Acknowledgement
-1. [1amSimp1e balcony🚊 dot file](https://github.com/1amSimp1e/dots/) kitty config file
+1. [Catppuccin Theme](https://github.com/catppuccin)
