@@ -49,3 +49,9 @@ map \x <Action>(CloseAllUnpinnedEditors)
 map \j <Action>(EditorCloneCaretBelow)
 map \k <Action>(EditorCloneCaretAbove)
 map \sn <Action>(SelectNextOccurrence)
+
+" My Commands
+command! Run action Run
+command! Stop action Stop
+command! GC action CheckinProject
+command! Fetch action Git.Fetch
