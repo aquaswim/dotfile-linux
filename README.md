@@ -19,5 +19,8 @@ My Linux dot files
 ## Scripts
 1. `install.sh`: link all config to this folder
 
+## Manual configuration
+1. set keyboard shortcut `SUPER+Return` to open kitty
+
 ## Acknowledgement
-1. [1amSimp1e balcony🚊 dot file](https://github.com/1amSimp1e/dots/) base of this dot file
+1. [1amSimp1e balcony🚊 dot file](https://github.com/1amSimp1e/dots/) kitty config file
