@@ -9,8 +9,10 @@ My Linux dot files
     kitty
     zsh
     noto-fonts-cjk
-    ttf-jetbrains-mono-nerd
-    catppuccin-gtk-theme-mocha
+    ttf-jetbrains-mono-nerd*
+    catppuccin-gtk-theme-mocha*
+    colloid-icon-theme-git*
+    colloid-cursors-git*
     ```
     * = aur
 3. install this by following the official doc
@@ -24,6 +26,7 @@ My Linux dot files
 ## Manual configuration
 1. set keyboard shortcut `SUPER+Return` to open kitty
 1. Set shell theme to catpuucin mocha in gnome tweak
+1. Set cursor and icon theme to colloid in gnome tweak
 
 ## Acknowledgement
 1. [Catppuccin Theme](https://github.com/catppuccin)
