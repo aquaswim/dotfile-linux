@@ -1,5 +1,5 @@
 #!/bin/sh
-export EDITOR=vi
+export EDITOR=nvim
 
 # Added by Toolbox App
 export PATH="$PATH:/home/aquaswim/.local/share/JetBrains/Toolbox/scripts"
