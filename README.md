@@ -45,6 +45,7 @@ This is some recommended gnome extension, i preffer using package manager or thi
 1. Configure ulauncher
     1. Enable ulauncher.service `systemctl --user enable --now ulauncher.service`
     1. set keyboard shortcut `SUPER+Space` ro run `ulauncher-toggle`
+1. apply the catpuccin gtk4 theme by doing [this](https://github.com/catppuccin/gtk#for-gtk-40-users)
 
 ## Acknowledgement
 1. [Catppuccin Theme](https://github.com/catppuccin)
