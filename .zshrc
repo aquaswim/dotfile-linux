@@ -106,3 +106,5 @@ source $ZSH/oh-my-zsh.sh
 alias kittyssh="kitty +kitten ssh"
 
 export PATH="$PATH:$(go env GOBIN):$(go env GOPATH)/bin"
+
+alias vboxssh="kitty +kitten ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
