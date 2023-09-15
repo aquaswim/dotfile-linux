@@ -27,7 +27,6 @@ My Linux dot files
 ## Gnome extensions
 This is some recommended gnome extension, i preffer using package manager or this [extension manager](https://flathub.org/apps/com.mattjakeman.ExtensionManager)
 1. `gnome-shell-extension-appindicator`: tray icon
-1. `gnome-shell-extension-dash-to-dock`: easy to use dock (aur)
 1. `gnome-shell-extension-vitals`: system monitor (aur)
 1. `gnome-shell-extension-tiling-assistant`: tiling assistant (aur)
 1. [Hide activity button](https://extensions.gnome.org/extension/744/hide-activities-button/)
