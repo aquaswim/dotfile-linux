@@ -70,7 +70,7 @@ ZSH_THEME="agnoster"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions nvm)
+plugins=(git zsh-autosuggestions nvm taskwarrior)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -108,3 +108,5 @@ alias kittyssh="kitty +kitten ssh"
 export PATH="$PATH:$(go env GOBIN):$(go env GOPATH)/bin"
 
 alias vboxssh="kitty +kitten ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null"
+
+task

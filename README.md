@@ -14,6 +14,7 @@ My Linux dot files
     colloid-icon-theme-git*
     colloid-cursors-git*
     ulauncher*
+    task
     ```
     * = aur
 3. install this by following the official doc
