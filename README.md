@@ -29,13 +29,8 @@ This is some recommended gnome extension, i preffer using package manager or thi
 1. `gnome-shell-extension-appindicator`: tray icon
 1. `gnome-shell-extension-vitals`: system monitor (aur)
 1. `gnome-shell-extension-tiling-assistant`: tiling assistant (aur)
-1. [Hide activity button](https://extensions.gnome.org/extension/744/hide-activities-button/)
 1. [Rounded windows corner](https://extensions.gnome.org/extension/5237/rounded-window-corners/)
 1. [compact top bar](https://extensions.gnome.org/extension/5669/compact-top-bar/)
-1. [space bar](https://extensions.gnome.org/extension/5090/space-bar/)
-    
-    i3 like workspace list, disable keybind to avoid confilct with gnome shortcut
-1. test
 
 ## Manual configuration
 1. set keyboard shortcut `SUPER+Return` to open kitty
