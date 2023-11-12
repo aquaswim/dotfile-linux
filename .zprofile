@@ -17,3 +17,6 @@ export QT_WAYLAND_DISABLE_WINDOWDECORATION="1"
 
 #Java XWayland blank screens fix
 export _JAVA_AWT_WM_NONREPARENTING=1
+
+# enable rusticl
+export RUSTICL_ENABLE=radeonsi
