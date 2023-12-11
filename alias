@@ -1,4 +1,5 @@
+alias al="cat $HOME/.alias"
 # alias for host os shell
 alias db="distrobox"
 alias dbe="distrobox enter"
-alias dbea="distrobox enter archdev"
+alias dbea="distrobox enter archlinux"
