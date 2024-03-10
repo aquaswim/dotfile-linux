@@ -7,6 +7,6 @@ hello:
   @just --list
 
 update:
-  paru
-  flatpak update
-  distrobox-upgrade --all
+  @flatpak update
+  @distrobox-upgrade --all
+  @paru
